@@ -13,6 +13,7 @@ class Jav{
            }
        }
         System.out.println(count);
+        System.out.println("Hello world");
    }
 }
         
